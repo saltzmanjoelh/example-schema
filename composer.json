@@ -50,9 +50,6 @@
     "extra": {
         "laravel": {
             "dont-discover": [],
-            "database": {
-                "path": "/Users/joelsaltzman/Projects/example/schema/database"
-            }
         }
     },
     "config": {
